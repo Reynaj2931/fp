@@ -1,1 +1,1 @@
-print ( ¨´hola mundo python , este es mi primer programa ¨)  
+print(¨hola mundo python, mi primer programa¨)
