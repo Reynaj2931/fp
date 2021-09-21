@@ -11,4 +11,7 @@ Mi nombre es Reyna y soy estudiante de **ITPA**
 
 ##unidad 2 :
 ### Objetivo
-
+*examenunidad1.py* examen de la primera unidad 
+##unidad 3 :
+### Objetivo
+*README.md* agregando a README.md
