@@ -1,0 +1,19 @@
+/*
+Mi primer pseudocodigo
+Ry calzada
+ITPA
+TICS
+
+Programs que imprime un nombre que capturamos
+
+*/
+
+Algoritmo Imprimirnombre;
+VAR
+    CARACTER minombre;
+INICIO
+     ESCRIBIR("¿cual es el nombre?"); 
+     LEER (minombre);
+     Escribir(minombre);
+     
+FIN
