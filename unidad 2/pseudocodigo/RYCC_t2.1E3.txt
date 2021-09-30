@@ -4,17 +4,17 @@ Reyna yamile calzada campos
 ITPA
 TICS
 
-Programa 5: Un programa que pide un numero y te de su cuadrado (usando una funcion)
+Programa 5: Un programa que pide un numero y te de su cuadrado (usando una función)
 
 */
 
 Algoritmo NumeroCuadrado;
 VAR
-    Int N;
+    Int N1;
     Int Resultado;
 INICIO
     Escribir ("Ingresa un numero:");
-    Leer N;
-    Resultado = sqr(N)
+    Leer N1;
+    Resultado = sqr(N1)
     Escribir ("El cuadrado del numero ingresado es:",Resultado);
- FIN
+ Fin
