@@ -21,4 +21,4 @@ INICIO
         Escribir ("El numero mayor es:", x);
     Else
         Escribir ("El numero mayor es:", y);
-FIN
+fin
