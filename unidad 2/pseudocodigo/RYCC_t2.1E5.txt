@@ -18,7 +18,7 @@ INICIO
     Escribir ("Ingresa el valor de segundo numero");
     Leer y;
     If (x>y);
-        Escribir ("El numero mayor es:", x);
+        Escribir ("El numero mayor es:",x);
     Else
-        Escribir ("El numero mayor es:", y);
-fin
+        Escribir ("El numero mayor es:",y);
+FIN
