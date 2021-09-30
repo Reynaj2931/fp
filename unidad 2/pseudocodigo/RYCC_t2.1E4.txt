@@ -21,4 +21,4 @@ INICIO
     Escribir ("¿Cual es tu nombre:");
     Leer Am;
     Escribir ("Tu nombre completo es:", N,Ap,Am);
-FIN
+fin
