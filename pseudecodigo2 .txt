@@ -1,0 +1,22 @@
+/*
+Mi primer pseudocodigo 
+Ry calzada 
+ITPA
+TICS
+
+Programa 2: suma de dos numeros 
+
+*/
+ALGORITMO suma;
+VAR
+    INT numero1;
+    INT numero2;
+    INT resultado;
+ INICIO
+     ESCRIBIR("Dame los dos números");
+     LEER(numero1);
+     LEER(numero2);
+     Resultado = numero1 + numero 2;
+
+     ESCRIBIR("El resultado es:", resultado);
+FIN
