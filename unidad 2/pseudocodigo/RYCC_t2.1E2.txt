@@ -1,0 +1,31 @@
+*/
+Mi 4 pseudocodigo 
+Reyna yamile calzada 
+ITPA
+TICS
+
+Programa 4: Imprimir el promedio 5 calificaciones
+
+*/
+Algoritmo Promedio;
+VAR
+   Int C1;
+   Int C2;
+   Int C3;
+   Int C4;
+   Int C5;
+   Int Promedio;
+INICIO
+    Escribir ("Primera calificacion:");
+    Escribir ("Segunda calificacion:");
+    Escribir ("Tercera calificacion:");
+    Escribir ("Cuarta calificacion:");
+    Escribir ("Quinta calificacion:");
+    Leer C1;
+    Leer C2;
+    Leer C3;
+    Leer C4;
+    Leer C5;
+    Promedio = (C1+C2+C3+C4+C5)/5
+    Escribir ("El promedio es:", Promedio);
+    FIN
