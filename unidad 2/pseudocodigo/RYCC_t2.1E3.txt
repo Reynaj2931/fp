@@ -1,0 +1,20 @@
+*/
+Mi tercer tarea en pseudocofigo
+Reyna yamile calzada campos 
+ITPA
+TICS
+
+Programa 5: Un programa que pide un numero y te de su cuadrado (usando una funcion)
+
+*/
+
+Algoritmo NumeroCuadrado;
+VAR
+    Int N1;
+    Int Resultado;
+INICIO
+    Escribir ("Ingresa un numero:");
+    Leer N1;
+    Resultado = sqr(N1)
+    Escribir ("El cuadrado del numero ingresado es:",Resultado);
+ FIN
