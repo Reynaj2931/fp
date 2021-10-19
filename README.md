@@ -58,3 +58,19 @@ Mi nombre es Reyna y soy estudiante de **ITPA**
 
 ###Constructor
 **los constructores es una subrutina cuya mision es inicializar un objeto de una clase , tambien asigna los valores iniciales de nuevo objetivo y es un compilador que determina los objetos que van a responder el mensaje que creamos**
+
+###unidad 3
+###tarea en clases investigar que es clase y objeto en programacion 
+
+*que es una clase ? es una plantilla que define atributos y métodos y son muy comunes para todos los objetoss de cierto tipo*
+
+*que es un objeto ? los objetos son las carcterizticas y conceptos importam¡ntes para la programación orientada por objetos (poo) y se crean apartir de la clase*
+
+###ejemplos de la clase y objetos de la programaíón 
+
+##ejemplo 1 
+*computadora : color, marca ,teclado ,modelo ,prende , tamaño*
+##ejemplo2
+*silla :color, tamaño , de que material es hecho , forma, altura*
+##ejemplo 3
+*bestido: color, tamaño, marca , talla , modelo* 
