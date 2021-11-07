@@ -20,7 +20,7 @@ Troca = {
      "año" : "2021",
 }
 
-print(Troca["marca"])
+print(Troca["año"])
 
 Celular =  {
        "marca" : "motorola moto g100",
