@@ -1,0 +1,15 @@
+n=input("nombre de la clase:");
+p1=input("ingresa el primer atributo: ");
+p2=input("ingresa el segundo atributo:");
+p3=input("ingresa el tercer atributto:");
+p4=input("ingresa el cuarto atributo:");
+p1=input("ingresa el color:");
+p2=input("ingresa la talla:");
+p3=input("ingresa el tipo del modelo que quieres:");
+p4=input("ingresa la marca:");
+atr=input("estos son sus atributos del vestido:");
+print(atr);
+print(p1);
+print(p2);
+print(p3);
+print(p4);
