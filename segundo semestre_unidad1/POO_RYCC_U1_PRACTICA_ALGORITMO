@@ -1,0 +1,34 @@
+inicio
+Escribir "convocatoria"
+Leer convocatoria
+Escribir"llenar solicitud"
+Leer llenar solicitud
+Escribir"datos que pide la solicitu:nombre,apellido,edad,grado,calificacion del semestre anterior"
+Leer datos que pide la solicitu:nombre,apellido,edad,grado,calificacion del semestre anterior
+Si"llena la solitud y esta completa"
+Sino"no entra la solicitud por que esta incompleta"
+Escribir verificar lo datos de los alumnos"
+Leer verificar lo datos de los alumnos
+Escribir"el alumno no es de pabellon"
+Leer el alumno no es de pabellon
+Si"obtendra la beca"
+Sino"el alumno es de pabellon no le tocara la beca"
+Escribir"preguntar promedio"
+Leer preguntar promedio
+Si "tienes promedio de 8-9"
+Escribir " te tocara la beca"
+Leer te tocara la beca
+Sino"no te tocara la beca por que no esta cumpliento"
+Escribir"preguntar si tiene materias reprovadas"
+Leer preguntar si tiene materias reprovadas
+Si"tienes materias reprovadas"
+Sino "si te tocara la beca"
+Escribir"preguntar si tiene otra beca"
+Leer preguntar si tiene otra beca
+Si "tienes otra beca"
+Sino "si le tocara la beca"
+Escribir"procede la beca"
+Leer procede la beca
+Si "si si cumples con los requisitos que tiene la beca"
+Sino "no te tocara la beca"
+fin 

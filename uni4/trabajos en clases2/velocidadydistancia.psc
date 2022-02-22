@@ -1,3 +1,4 @@
+
 Algoritmo velocidadydistancia
 	Definir d Como Real
 	Definir v Como Real
